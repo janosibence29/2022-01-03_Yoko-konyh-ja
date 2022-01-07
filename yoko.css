@@ -122,3 +122,7 @@ section.contpage {
 	text-align: center;
 	font-size: 20px;
 }
+
+article p{
+	text-align: justify;
+}
