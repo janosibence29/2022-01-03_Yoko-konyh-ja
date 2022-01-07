@@ -126,3 +126,9 @@ section.contpage {
 article p{
 	text-align: justify;
 }
+
+aside {
+	width: 230px;
+    margin-left: 20px;
+    float: right;
+}
